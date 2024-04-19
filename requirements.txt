@@ -1,5 +1,3 @@
-Flask==2.2.2
-opencv-python
-qrcode
-ultralytics
-firebase_admin
+Flask==2.1.0
+WerKzeg==2.2.2
+
