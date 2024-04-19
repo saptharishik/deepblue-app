@@ -1,0 +1,5 @@
+flask
+opencv-python
+qrcode
+ultralytics
+firebase_admin
