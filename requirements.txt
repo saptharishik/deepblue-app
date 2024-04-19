@@ -1,4 +1,4 @@
-Flask
+Flask==2.2.2
 opencv-python
 qrcode
 ultralytics
